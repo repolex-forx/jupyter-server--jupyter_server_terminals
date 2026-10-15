@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jupyter-server/jupyter_server_terminals/commit/46563c0797a2d21526d0cc95c70dafc4e0e0440a",
       "git:hexsha": "46563c0797a2d21526d0cc95c70dafc4e0e0440a",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.5.4"
     },
     {
